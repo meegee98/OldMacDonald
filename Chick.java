@@ -10,7 +10,7 @@ class Chick implements Animal
      public Chick(String type, String sound1, String sound2)
      {
      	myType=type;
-     	if(Math.random() > .5)
+     	if(Math.random() > .4)
      	{
      		mySound=sound2;
      	}
