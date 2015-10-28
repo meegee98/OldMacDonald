@@ -12,6 +12,5 @@ public void setup()
 
     Pig p = new Pig("pig", "oink");   
     System.out.println(p.getType() + " goes " + p.getSound()); 
-
 }
 
